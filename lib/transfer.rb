@@ -5,5 +5,5 @@ class Transfer
     @receiver = receiver
     @status = status
   end
-  
+
 end
